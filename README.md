@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://www.neofinancial.com/" target="blank"><img src="https://images.ctfassets.net/3p363eai9076/73AivSL0rYx0D5hLBvJabY/a817bbc4279027b88b40f00b95fc07f5/logo.svg" width="200" alt="Neo Logo" /></a>
-</p>
-
-<p align="center">Currency conversion assignment</p>
-
-
 ## Description
 
 The source code contains the solution for the task of determining the best conversion rates from CAD. Please go through the following instructions to run the project in your local environment.
